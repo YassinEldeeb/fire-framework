@@ -182,7 +182,7 @@ Before we dive into the mechanics of legally saving on taxes, it's crucial to ad
 
 ### Understand Your Tax Code
 
-First off, know the tax laws like the back of your hand or get a professional who does. There are deductions, credits, and allowances that most people don't even know exist. It's not about bending the rules; it's about knowing them well enough to make them work for you.
+First off, know the tax laws like the back of your hand or get a professional who does. There are deductions, credits, and allowances that most people don't even know exist. It's not about bending the rules; it's about knowing them well enough to make them work for you. Go to your government taxes website and start reading as much as you can. I can tell you from experience, knowing Egypt and US tax code so well, that I do know legal deductions and loopholes when I told my tax advisors about, they had no idea about them, and applauded me for discovering them.
 
 ### Legally Saving on Income Taxes
 
