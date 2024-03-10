@@ -72,7 +72,7 @@ Here’s my rules:
 That's it. Thanks for reading 🤗
 Also, don't feel sympathy for me, I love how I chose my life and how everything turned out and could have never wished for a better career path.
 
-I'm not gonna lie, when i just turned 18yo, I got into thinking about buying a villa in new cairo’s center, costing around $600k. we spent about a month checking out this place, getting all wrapped up in the decision-making. I was on the verge of shifting from a 2009 home in a once remote area to one of egypt’s most lavish neighborhoods.
+I'm not gonna lie, when i just turned 18yo, I got into thinking about buying a big house in new cairo’s center, costing around $600k. we spent about a month checking out this place, getting all wrapped up in the decision-making. I was on the verge of shifting from a 2009 home in a once remote area to one of egypt’s most lavish neighborhoods.
 
 but then, reality check hit me – i was about to break my very own rule: “never inflate your lifestyle too quick”. this wasn’t just a new house; it was a leap into an entirely different world of big-time spenders and extravagant living.
 
