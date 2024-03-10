@@ -129,8 +129,6 @@ But about being smart with taxes, if you're making good money, it's stupid not t
 > 
 > Judge Learned Hand in the tax case Helvering v. Gregory
 
-![](./images/tax-quote1.jpg)
-
 I'm not against giving away, in fact I do highly encourage it. I want you to see and experience the difference yourself between giving up 40% of your income to government and giving away 10% of your income to the people in need in your neighborhood. I'm talking about directly giving away, and not huge charities, I personally don't believe they're helping enough, due to usually having way too much overhead operational costs.
 
 ### Charitable Act
@@ -183,6 +181,8 @@ Before we dive into the mechanics of legally saving on taxes, it's crucial to ad
 ### Understand Your Tax Code
 
 First off, know the tax laws like the back of your hand or get a professional who does. There are deductions, credits, and allowances that most people don't even know exist. It's not about bending the rules; it's about knowing them well enough to make them work for you. Go to your government taxes website and start reading as much as you can. I can tell you from experience, knowing Egypt and US tax code so well, that I do know legal deductions and loopholes when I told my tax advisors about, they had no idea about them, and applauded me for discovering them.
+
+![](./images/tax-quote1.jpg)
 
 ### Legally Saving on Income Taxes
 
