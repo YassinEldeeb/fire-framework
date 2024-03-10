@@ -80,7 +80,7 @@ a month later, i got completely out of it, just before closing out the deal. got
 
 ---------
 
-now to an interesting question some of you may be having...have I ever experienced top luxury living? The answer is: Yes.
+now to an interesting question some of you may be having..."okay, you're talking about frugality, living below your means, and all of that good stuff, but have you ever experienced luxury living?" The answer is: Yes.
 
 I’m not gonna lie, I've always had this FOMO (fear of missing out), and was always curious what was on the complete opposite side of living frugally looks like. so I decided to take the shot. I went on a trip to somewhere very expensive....and what better place than Dubai have I found to burn as much money as possible in the shortest period of time!!
 
