@@ -86,7 +86,9 @@ I’m not gonna lie, I've always had this FOMO (fear of missing out), and was al
 
 I went on a trip for a week on a $1000 daily budget. And wow! was it fun? Yes, very fun, to be specific it was the costly once in a lifetime physical experiences I have had, and not the luxerious living. I stayed at the best most expensive hotels, the tallest hotel in the world, I ate out every single day, and every single meal. I went to the most expensive 5-stars restaurants costing $200-500 for a single person's 5-10 course meal, been to the very top of burj khalifa, took premium taxis everywhere I went. Went sky-diving, went deep diving in the deepest pool in the world, took a kite surfing course, had the best spa/massage/sauna sessions every day. Went luxury shopping in the biggest mall in the world "The Dubai Mall". so was it fun? yeah. but was it worth 20-30x my daily expenses? Absolutely not!!
 
-So, lessons learned. Living a very luxurious life is not really that fun, and is really not worth the cost. If you want to experience the true fun I had in Dubai on a luxerious lifestyle, just go on a 1 day transit skydiving or deep diving for a $800. That's truly the once in a lifetime experiences you'll never forget and you'll forever remember. That's about 90% of the fun I've had, everything else, I got bored of it after the first or second day.
+So, lessons learned. Luxury living looks good on camera, but in reality is not really that fun, and is really not worth the cost. If you want to experience the true fun I had in Dubai on a luxerious lifestyle, just go on a 1 day transit skydiving or deep diving for $800. That's truly the once in a lifetime experiences you'll never forget and you'll forever remember. That's about 90% of the fun I've had, everything else, I got bored of it after the first or second day.
+
+Here are some pictures from that trip I mentioned. Remember, things always seem way better and cooler on camera, compared to how they are in reality.
 
 ![](./images/myself/restaurant.JPG)
 ![](./images/myself/meal1.JPG)
