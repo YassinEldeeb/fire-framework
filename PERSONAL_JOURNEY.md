@@ -60,16 +60,14 @@ If you’re comfortable where you are now, just know it’s wild out there, alwa
 
 As of now, I’m 19 years old, turning 20 very soon, and my family (of 4 members) are retired on my investing portfolio, while leaving the principal grow over time and investing most of my income every single month, I’m expected to have the option to fully retire in any country of my chosen in the world at the age of 24.
 
-
-Of course, I won't be "traditionally" retiring at that young age; rather, this signifies having achieved the complete freedom to pursue my passions for life. This journey has not just been about financial gain; it's been a process of setting a strong foundation for my future. With the framework I've outlined in this repo, I'm now positioned to take risks on potentially successful ideas, build and validate them, and grow them organically – all without relying on any money from VC (Venture Capital).
-
-Plot twist: I still live with my parents, in the same house I told you about earlier ;)
-Never!!! NEVER get dragged into lifestyle inflation!
-
 Here’s my rules:
 - if I want to buy something, wait for a week and revisit that thing I want to buy, unnecessary interests of wants tend to be irrational and temporary.
 - a lifestyle that costs more than 10% of my monthly income is a lifestyle I simply can’t afford.
 - health is your most valuable asset in your life, take good care of your body. this can completely flip your life upside down.
+
+
+Of course, I won't be "traditionally" retiring at that young age; rather, this signifies having achieved the complete freedom to pursue my passions for life. This journey has not just been about financial gain; it's been a process of setting a strong foundation for my future. With the framework I've outlined in this repo, I'm now positioned to take risks on potentially successful ideas, build and validate them, and grow them organically – all without relying on any money from VC (Venture Capital).
+
 
 
 That's it. Thanks for reading 🤗
