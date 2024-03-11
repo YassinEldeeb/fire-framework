@@ -66,7 +66,7 @@ Here’s my rules:
 - health is your most valuable asset in your life, take good care of your body. this can completely flip your life upside down.
 
 
-Of course, I won't be "traditionally" retiring at that young age; rather, this signifies having achieved the complete freedom to pursue my passions for life. This journey has not just been about financial gain; it's been a process of setting a strong foundation for my future. With the framework I've outlined in this repo, I'm now positioned to take risks on potentially successful ideas, build and validate them, and grow them organically – all without relying on any money from VC (Venture Capital).
+Of course, I won't be "traditionally" retiring at that young age; rather, this signifies having achieved the complete freedom to pursue my passions for a lifetime. This journey has not just been about financial gain; it's been a process of setting a strong foundation for my future. With the framework I've outlined in this repo, I'm now positioned to take risks on potentially successful ideas, build and validate them, and grow them organically – all without relying on any money from VC (Venture Capital).
 
 
 
