@@ -194,15 +194,29 @@ One approach is to set up an offshore company, favorably in a free zone. These a
 
 https://chambers.com/articles/a-complete-guide-for-corporate-taxation-in-uae-free-zone-areas
 
+> For Americans, while the foreign company itself isn’t taxed by the U.S., any ownership stake and income derived must be reported to the IRS, in line with international taxation rules.
+
 ### The "Resident of Nowhere" Strategy
 
 For individuals, particularly those who can work remotely and obssessed with travelling, the "Resident of Nowhere" strategy offers a unique way to manage tax liabilities. The idea is to not spend more than 183 days in any single country, thus avoiding becoming a tax resident in most jurisdictions. It involves a nomadic lifestyle, moving between countries while legally minimizing tax obligations. This approach, while not suitable for everyone, especially those with families or fixed job locations, can be effective for digital nomads. But, it's quite complex to set up.
 
 Learn more: https://www.wandererswealth.com/tax-resident-of-nowhere/
 
+> Unfortunately, for Americans, this is not a possible strategy, as you are taxed on your worldwide income regardless of where you live, due to U.S. tax policies.
+
 ### Tax Benefits of Dual Residency
 
 If you're up on exploring a new country, another approach is to establish residency in a country with favorable tax laws while maintaining your citizenship in your home country. Some countries offer special tax statuses to new residents, which can significantly lower your tax burden. This requires balancing the rules of both countries and might involve spending a certain amount of time in each country.
+
+> American should be aware that while they can claim an exemption on foreign earned income up to a certain threshold (approximately $120K), they are still subject to U.S. taxation on worldwide income above this limit.
+
+### Real Estate Depreciation
+
+Real estate depreciation is a globally utilized tax strategy, essential for property investors. It involves allocating the cost of purchasing and improving a property over its useful life, thereby decreasing taxable income. This method is particularly influential in the United States, where residential properties are typically depreciated over 27.5 years and commercial properties over 39 years.
+
+And with depreciation, investors can benefit from various tax deductions. These include mortgage interest, which forms a significant part of property loan payments and can be deducted from taxes. Operating expenses related to the property, such as repairs, management fees, utilities, and insurance, are also often tax-deductible. Property taxes paid on the property provide another deduction opportunity.
+
+The strategy also considers the cost of improvements and repairs. Major improvements, while not immediately deductible, contribute to the property's basis and enhance annual depreciation claims. Repairs may be immediately deductible, depending on their nature.
 
 ### Caution and compliance
 
