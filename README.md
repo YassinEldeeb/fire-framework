@@ -49,6 +49,7 @@ So whether you're stepping into the tech world, navigating a career change, or s
    - Foreign Company in Free Zones
    - The 'Resident of Nowhere' Strategy
    - Dual Residency Benefits
+   - Real Estate Depreciation
    - Compliance and Legal Considerations
 
 5. [Frugality: Living Below Your Means](#5-frugality-living-below-your-means)
