@@ -62,7 +62,7 @@ As of now, I’m 19 years old, turning 20 very soon, and my family (of 4 members
 
 Here’s my rules:
 - if I want to buy something, wait for a week and revisit that thing I want to buy, unnecessary interests of wants tend to be irrational and temporary.
-- a lifestyle that costs more than 10% of my monthly income is a lifestyle I simply can’t afford.
+- a lifestyle that costs more than 10% of my monthly income is a lifestyle I simply can’t afford. And if the most minimal basic lifestyle is above 10% then I need to figure out how to earn more.
 - health is your most valuable asset in your life, take good care of your body. this can completely flip your life upside down.
 
 
