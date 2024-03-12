@@ -15,20 +15,10 @@ In Summary, you can do whatever you want with it, just like an MIT license, you 
 >
 > Always consider your financial situation and risk tolerance before making investment decisions and seek advice from financial, tax, and legal professionals tailored to your individual circumstances.
 
-## Preface: Why This Guide Matters Now More Than Ever
-
-In the volatile tech industry, where job stability is increasingly rare, financial literacy isn't just valuable – it's essential for survival. In this ever-changing landscape, I want you to adopt a mindset where every day, you're ready to lose your job tomorrow. Such a mindset isn’t about pessimism; it’s about being prepared, adaptable, and resilient in the face of uncertainty.
-
-This guide is born from a pressing need – to empower you, especially if you're part of the tech community, with the knowledge and tools to make informed financial decisions. Consider it your personal handbook for financial resilience; a resource to turn to whenever you find yourself at a crossroads in your financial journey. It encapsulates the lessons, strategies, and insights I've gathered over four years, navigating both prosperous times and economic downturns.
-
-More than just a compilation of financial lessons, this guide is a living, evolving document. It's an invitation to engage, discuss, and enrich its contents. Your insights, questions, and challenges will not only refine this guide but also deepen our collective understanding of financial management.
-
-The essence of this guide goes beyond mere financial accumulation; it's about preparing for the unexpected and turning challenges into opportunities. Job loss, while difficult, can also be a catalyst for growth and new beginnings. Perhaps you didn't enjoy your previous role, or you've been collecting ideas that you've always wanted to explore but never had the time to persue them. Being financially prepared means you can face these transitions with confidence, viewing them not as setbacks but as the perfect chance to start experimenting with those ideas, it may result in a major success.
-
-So whether you're stepping into the tech world, navigating a career change, or somewhere in between, this guide is for you. 
 
 ## Table of Contents
 
+0. [Why This Guide Matters Now More Than Ever](#preface-why-this-guide-matters-now-more-than-ever)
 
 1. [Introduction](#1-introduction)
    - My Own Financial Journey
@@ -67,6 +57,7 @@ So whether you're stepping into the tech world, navigating a career change, or s
    - Growth vs. Dividends in Investments
    - Debt Management
    - Good Debt vs. Bad Debt
+   - Breaking the Physiological Wealth Trap: Defining *'Your Enough'*
 
 7. [U.S. Stock Taxation for Non-Residents](#7-us-stock-taxation-what-you-need-to-know)
    - Capital Gains and Dividends Taxes
@@ -82,6 +73,19 @@ So whether you're stepping into the tech world, navigating a career change, or s
 
 11. [Beginning Your Investment Journey: A Practical Guide to Stock Market Investing](#11-a-practical-guide-to-stock-market-investing)
     - Step-by-step instructions and key insights for new investors embarking on their journey in the stock market.
+
+
+## Preface: Why This Guide Matters Now More Than Ever
+
+In the volatile tech industry, where job stability is increasingly rare, financial literacy isn't just valuable – it's essential for survival. In this ever-changing landscape, I want you to adopt a mindset where every day, you're ready to lose your job tomorrow. Such a mindset isn’t about pessimism; it’s about being prepared, adaptable, and resilient in the face of uncertainty.
+
+This guide is born from a pressing need – to empower you, especially if you're part of the tech community, with the knowledge and tools to make informed financial decisions. Consider it your personal handbook for financial resilience; a resource to turn to whenever you find yourself at a crossroads in your financial journey. It encapsulates the lessons, strategies, and insights I've gathered over four years, navigating both prosperous times and economic downturns.
+
+More than just a compilation of financial lessons, this guide is a living, evolving document. It's an invitation to engage, discuss, and enrich its contents. Your insights, questions, and challenges will not only refine this guide but also deepen our collective understanding of financial management.
+
+The essence of this guide goes beyond mere financial accumulation; it's about preparing for the unexpected and turning challenges into opportunities. Job loss, while difficult, can also be a catalyst for growth and new beginnings. Perhaps you didn't enjoy your previous role, or you've been collecting ideas that you've always wanted to explore but never had the time to persue them. Being financially prepared means you can face these transitions with confidence, viewing them not as setbacks but as the perfect chance to start experimenting with those ideas, it may result in a major success.
+
+So whether you're stepping into the tech world, navigating a career change, or somewhere in between, this guide is for you. 
 
 
 ## 1. Introduction
@@ -329,19 +333,6 @@ https://www.cnbc.com/2017/05/25/mark-zuckerberg-on-success-billionaires-should-p
 
 ![](./images/tweet.png)
 
-### ⚠️ Debt Management
-
-Before embarking on investment strategies, focus on eliminating any outstanding "bad" debts. Methods like the debt snowball or avalanche are effective strategies for tackling debts systematically. Start by either paying off the smallest debts first for motivational wins (snowball) or targeting the debts with the highest interest rates (avalanche).
-
-
-### Good Debt vs. Bad Debt
-
-- **Definition:** 'Good' debt can increase your net worth or significantly enhance your life. On the other hand, 'bad' debt is tied to depreciating assets or consumption.
-
-- **Examples:** Mortgages with favorable interest rates and investment in educational materials are examples of good debt, whereas high-interest credit card debt for consumer goods represents bad debt.
-
-Understanding the difference between these two types of debt is crucial in creating a healthy financial plan. While it's essential to get rid of bad debt as soon as possible, good debt can be a strategic part of your financial growth and should be managed wisely.
-
 ### 6. Financial Independence: Saving and Investing
 
 Now, we're diving into the really fun part! You're earning well and living smart (not blowing cash on every shiny thing). So what do you get? A big, fat pile of savings. But what's next? How do you use that to really change your life? That's where financial independence comes in.
@@ -516,6 +507,30 @@ Investment assets often fall into one of two categories: growth stocks and divid
 - **Steady Income:** These stocks offer regular income, which can be especially appealing to retirees or those looking for a steady cash flow.
 - **Lower Risk, But...:** While dividend stocks tend to be less volatile than growth stocks, they tend to offer lower long-term capital appreciation.
 - **Examples:** McDonald's, Coca-Cola, Walmart, and JPMorgan.
+
+### ⚠️ Debt Management
+
+Before embarking on investment strategies, focus on eliminating any outstanding "bad" debts. Methods like the debt snowball or avalanche are effective strategies for tackling debts systematically. Start by either paying off the smallest debts first for motivational wins (snowball) or targeting the debts with the highest interest rates (avalanche).
+
+
+### Good Debt vs. Bad Debt
+
+- **Definition:** 'Good' debt can increase your net worth or significantly enhance your life. On the other hand, 'bad' debt is tied to depreciating assets or consumption.
+
+- **Examples:** Mortgages with favorable interest rates and investment in educational materials are examples of good debt, whereas high-interest credit card debt for consumer goods represents bad debt.
+
+Understanding the difference between these two types of debt is crucial in creating a healthy financial plan. While it's essential to get rid of bad debt as soon as possible, good debt can be a strategic part of your financial growth and should be managed wisely.
+
+#### Breaking the Physiological Wealth Trap: Defining *'Your Enough'*
+
+Achieving early financial freedom isn’t just about how much wealth you accumulate but also in recognizing what constitutes **‘enough’** for you. Understanding when your financial achievements align with your life’s ambitions is crucial. This insight allows you to savor the freedom afforded by your finances, rather than persist in an endless pursuit of more, without pausing to enjoy what you've already achieved.
+
+Here's a clear perspective:
+
+- Often, people set a financial target like reaching a net worth of $1 million, believing it will bring ultimate satisfaction. However, upon reaching that milestone, they shift their goal to $5 million, then $10 million, continually pushing happiness into the future.
+- Shifting focus from a monetary target to what genuinely fulfills you, such as being able to cover living expenses, engage in hobbies, or travel, can redefine your concept of success. This is not about the total in your bank account, but how it supports the life you want to lead.
+- Many people tend to overestimate their needs in a free or retired lifestyle. They might imagine a complete transformation in their daily activities or expenses, but in reality, desires and routines often remain more constant than anticipated. Understanding this can help in setting more realistic financial goals and recognizing when you've reached a satisfactory level of financial freedom.
+
 
 ### 7. U.S. Stock Taxation: What You Need to Know
 
