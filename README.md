@@ -362,7 +362,7 @@ On the other hand, if you take the national average savings rate in Germany of 1
 Another very cool tool I have found is this Monte-Carlo-Simulation, I can't express how much I love this tool, this puts your parameters into a series of simulated scenarios based on the available historical data.
 https://www.portfoliovisualizer.com/monte-carlo-simulation
 
-Keep in mind, retiring is **"FUUCKEN BORING"**.
+Keep in mind, retiring is **"EXTREMELY BORING"**.
 
 > Never stop working
 >
