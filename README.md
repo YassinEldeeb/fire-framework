@@ -521,7 +521,7 @@ Before embarking on investment strategies, focus on eliminating any outstanding 
 
 Understanding the difference between these two types of debt is crucial in creating a healthy financial plan. While it's essential to get rid of bad debt as soon as possible, good debt can be a strategic part of your financial growth and should be managed wisely.
 
-#### Breaking the Physiological Wealth Trap: Defining *'Your Enough'*
+### Breaking the Physiological Wealth Trap: Defining *'Your Enough'*
 
 Achieving early financial freedom isn’t just about how much wealth you accumulate but also in recognizing what constitutes **‘enough’** for you. Understanding when your financial achievements align with your life’s ambitions is crucial. This insight allows you to savor the freedom afforded by your finances, rather than persist in an endless pursuit of more, without pausing to enjoy what you've already achieved.
 
