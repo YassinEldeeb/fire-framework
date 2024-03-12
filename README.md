@@ -260,6 +260,8 @@ In summary, the way you manage your personal finances, including how you respond
 
 ### Global Perspectives on Saving: A Look at China
 
+![](./images/saving-rate.png)
+
 In contrasting global savings behaviors, a stark difference emerges between Eastern and Western cultures. For example, as of December 2021, the gross savings rate in China is about 45.9%. This means for every $100 earned, approximately $46 is saved. This high savings rate is deeply rooted in Chinese culture, emphasizing the importance of financial security and independence, and that's the average savings rate, it's likely that higher-income earners in China save much more than this average. In contrast, in the United States, where consumerism is more prevalent, the savings rate hovers between 3.5% to 5%.
 
 This lower rate reflects a cultural emphasis on consumption, a trend notably reinforced post-World War II. An emblematic quote from this era captures the essence of this consumption-driven approach:
@@ -267,6 +269,7 @@ This lower rate reflects a cultural emphasis on consumption, a trend notably rei
 > "As we work with Congress in the coming year to chart a new course in Iraq and strengthen our military to meet the challenges of the 21st century, we must also work together to achieve important goals for the American people here at home. This work begins with keeping our economy growing, and I encourage you all to go shopping more."
 >
 > [Source](https://www.youtube.com/watch?v=fxk9PW83VCY&ab_channel=oyvey)
+
 
 #### Health and Frugality: A Wealthy Combination
 
