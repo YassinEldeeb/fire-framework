@@ -1,6 +1,6 @@
 ![](./images/cover.webp)
 
-# My Brutally Honest Guide to Money, Taxes, and Living Smart
+# Empowering Your Finances: A Comprehensive Guide to Money, Taxes, and Living Smart
 
 ## License
 
