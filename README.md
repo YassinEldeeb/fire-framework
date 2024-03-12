@@ -271,6 +271,10 @@ This lower rate reflects a cultural emphasis on consumption, a trend notably rei
 > George W. Bush / [Source](https://www.youtube.com/watch?v=fxk9PW83VCY&ab_channel=oyvey)
 
 
+I highly encourage watching "The Chinese Secret to Saving Money Revealed" video on youtube.
+
+https://www.youtube.com/watch?v=ms1nTeFO7ps&ab_channel=HumphreyYang
+
 #### Health and Frugality: A Wealthy Combination
 
 While we've discussed the financial benefits of a frugal lifestyle, it's also crucial to address another aspect of frugality that often goes overlooked: health. Yes, living frugally isn't just about saving pennies; it's also about investing in your well-being.
