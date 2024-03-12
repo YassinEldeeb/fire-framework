@@ -266,7 +266,7 @@ In contrasting global savings behaviors, a stark difference emerges between East
 
 This lower rate reflects a cultural emphasis on consumption, a trend notably reinforced post-World War II. An emblematic quote from this era captures the essence of this consumption-driven approach:
 
-> "As we work with Congress in the coming year to chart a new course in Iraq and strengthen our military to meet the challenges of the 21st century, we must also work together to achieve important goals for the American people here at home. This work begins with keeping our economy growing, and I encourage you all to go shopping more."
+> "We must also work together to achieve important goals for the American people here at home. This work begins with keeping our economy growing, and I encourage you all to go shopping more."
 >
 > George W. Bush / [Source](https://www.youtube.com/watch?v=fxk9PW83VCY&ab_channel=oyvey)
 
