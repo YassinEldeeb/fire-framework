@@ -258,7 +258,7 @@ For those who have a spouse and kids, when it comes to parenting and lifestyle, 
 
 In summary, the way you manage your personal finances, including how you respond to potential tax savings, can have a profound impact on your quality of life. It's not just about accumulating wealth, but about creating a lifestyle that prioritizes freedom, happiness, and financial security.
 
-#### Global Perspectives on Saving: A Look at China
+### Global Perspectives on Saving: A Look at China
 
 In contrasting global savings behaviors, a stark difference emerges between Eastern and Western cultures. For example, as of December 2021, the gross savings rate in China is about 45.9%. This means for every $100 earned, approximately $46 is saved. This high savings rate is deeply rooted in Chinese culture, emphasizing the importance of financial security and independence, and that's the average savings rate, it's likely that higher-income earners in China save much more than this average. In contrast, in the United States, where consumerism is more prevalent, the savings rate hovers between 3.5% to 5%.
 
