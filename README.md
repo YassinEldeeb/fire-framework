@@ -365,6 +365,10 @@ Learn more: https://www.cnbc.com/select/what-is-the-4-percent-retirement-savings
 
 This is just a general rule, you don't really need to exactly follow it, even the inventor of this rule said himself that 4% might be outdated and needs to be adjusted for 4.5% (https://finance.yahoo.com/news/even-inventor-bill-bengen-revisiting-143000007.html). But if you're retiring in your 20s or 30s, you should aim for an even lower withdrawal rate for example: 3% since your portofolio is expected to last 3x the timeframe of a regular retiree.
 
+If you want a more comprehensive answer, I'd encourage you to watch "How Much $ Do You Need to Retire? The 4% Rule for 2023" youtube video:
+
+https://www.youtube.com/watch?v=RUNzB_Nd3wc&ab_channel=HumphreyYang
+
 You can use this calculator to input your savings rate to know how far you are from your FIRE goal. This calculator illustrates how powerful your savings rate contributes to your speed of reaching financial independence.
 
 https://networthify.com/calculator/earlyretirement
