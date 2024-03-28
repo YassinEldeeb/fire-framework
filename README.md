@@ -235,7 +235,7 @@ A common principle many wealthy people follow is: "Always live as if you're poor
 
 In addition to examining how to optimize your tax setup, another key principle I advocate for is living below your means, regardless of your income. Whether you're earning $10,000, $40,000 or $200,000 annually, the concept of avoiding lifestyle inflation is crucial. It's tempting to increase your spending as your income grows, but resisting this urge can lead to greater financial freedom and security. Also, note that downgrading your lifestyle is much more difficult than upgrading it.
 
-Consider this: aim to live on a basic budget as an individual, say $1,000 per month, covering essentials like a modest living space and home-cooked meals. This approach isn't just about saving money; it's about prioritizing your health and wellbeing over material possessions. Remember, buying things often provides only temporary happiness. True, lasting contentment often comes from the freedom to pursue hobbies, spend time with family, and work on passion projects.
+Consider this: aim to live on a basic budget as an individual, covering essentials like a modest living space and home-cooked meals. This approach isn't just about saving money; it's about prioritizing your health and wellbeing over material possessions. Remember, buying things often provides only temporary happiness. True, lasting contentment often comes from the freedom to pursue hobbies, spend time with family, and work on passion projects.
 
 And let's talk about the common saying, *'Money doesn't buy happiness.'* While there's some truth to this, people that say this likely have never been in poverty, financial stress and insecurity can significantly hinder happiness. The peace of mind that comes from having a financial cushion cannot be underestimated.
 
@@ -251,7 +251,7 @@ Casey Neistat hit the nail on the head with his take on this.
 
 ---------
 
-Imagine earning $100,000 a year, having your taxes at a low 0-10% rate and living on just $1,000 per month. This strategy means that for every month you work, you're saving enough to sustain yourself for almost seven months. Over a couple of years, this could equate to nearly 14 years' worth of living expenses, do you understand how a big of a deal that is?? Such savings can be life-changing, offering the freedom to start your own venture or take a break from work whenever you'd like.
+Hypothetically, imagine earning $100,000 a year, having your taxes at a low 0-10% rate and living on just $1,000 per month. This strategy means that for every month you work, you're saving enough to sustain yourself for almost seven months. Over a couple of years, this could equate to nearly 14 years' worth of living expenses, do you understand how a big of a deal that is?? Such savings can be life-changing, offering the freedom to start your own venture or take a break from work whenever you'd like.
 
 
 For those who have a spouse and kids, when it comes to parenting and lifestyle, it's important to set realistic expectations for your children. Providing them with a comfortable life is essential, but it's also beneficial to teach them the value of money and the importance of living within means. Setting up an extravagant lifestyle as the norm can create unrealistic standards for happiness and success for your child. Instead, focus on instilling values of gratitude, simplicity, and the joy of experiences over material possessions.
@@ -310,7 +310,7 @@ A frugal lifestyle is not about deprivation; it's about prioritizing and making 
 Remember, being wealthy isn't just about the balance in your bank account; it's also about having the health to enjoy what you've worked so hard to accumulate. As the saying goes, "Health is wealth", and in the grand scheme of frugality, **the healthiest choice is often the most economical one.**
 
 
-### Rent is very expensive where I live, there's no way I can live on a $1,000/mo ?!!
+### Rent is very expensive where I live, there's no way I can save this much
 
 Living frugally in high-cost countries like Australia, the US, or Israel is undoubtedly more challenging to live on a smaller budget, but with strategic planning and a focus on what truly brings happiness to you or your family, it's achievable. It's about finding a balance that works for your unique situation.
 
