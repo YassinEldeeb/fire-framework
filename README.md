@@ -93,7 +93,7 @@ So whether you're stepping into the tech world, navigating a career change, or s
 
 Hey, I'm Yassin Eldeeb. I've gone through the financial roller coaster and come out on the other side. At just 20 years old, following the framework below, I'm standing as a living testament to the principles outlined in this guide.
 
-With no debt whatsoever and an investment portfolio that comfortably supports my family of four members in retirement for the next 40yrs without the need to contribute anything and it can also simultaneously cover my living expenses for an entire decade, this approach to money management shows the power of disciplined saving and investing, my next goal now is to achieve a more luxurious level of full financial independence by the age of 24.
+With no debt whatsoever and an investment portfolio that comfortably supports my family of four members in retirement for the next 40yrs without the need to contribute anything and it can also simultaneously cover my living expenses for an entire decade, this approach to money management shows the power of disciplined saving and investing.
 
 And. Yes, we live in weird times, age is not an indicator of experience, I'm so grateful to be born as a Gen Z, where just having a curious logical mindset, an internet connection, and time to invest learning. You can consume decades of research of the most valuable resources from the most brilliant people around the world in the matter of weeks and months for free. You can even backtrace their research process and almost be  present in historical moments like the 2008 financial crisis, if you read enough about it, you don't need to go into a crash to learn how to mitigate it, when you know what to expect. So powerful, right?
 
@@ -186,7 +186,7 @@ Before we dive into the mechanics of legally saving on taxes, it's crucial to ad
 
 ### Understand Your Tax Code
 
-First off, know the tax laws like the back of your hand or get a professional who does. There are deductions, credits, and allowances that most people don't even know exist. It's not about bending the rules; it's about knowing them well enough to make them work for you. Go to your government taxes website and start reading as much as you can. I can tell you from experience, knowing Egypt and US tax code quite well, that I do know legal deductions and not so known tax rules when I told my tax advisors about, they had no idea about them, and applauded me for discovering them.
+First off, know the tax laws like the back of your hand or get a professional who does. There are deductions, credits, and allowances that most people don't even know exist. It's not about bending the rules; it's about knowing them well enough to make them work for you. Go to your government taxes website and start reading as much as you can. I can tell you from experience, knowing Egypt and US tax code quite well.
 
 ![](./images/tax-quote1.jpg)
 
