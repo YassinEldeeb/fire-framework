@@ -91,7 +91,7 @@ So whether you're stepping into the tech world, navigating a career change, or s
 
 ## 1. Introduction
 
-Hey, I'm Yassin Eldeeb. I've gone through the financial roller coaster and come out on the other side. At just 20 years old, following the framework below, I'm standing as a living testament to the principles outlined in this guide.
+Hey, I'm Yassin Eldeeb. I've gone through the financial roller coaster and come out on the other side. Being in my 20s, following the framework below, I'm standing as a living testament to the principles outlined in this guide.
 
 With no debt whatsoever and an investment portfolio that comfortably supports my family of four members in retirement for the next 40yrs without the need to contribute anything and it can also simultaneously cover my living expenses for an entire decade, this approach to money management shows the power of disciplined saving and investing.
 
