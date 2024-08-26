@@ -97,8 +97,6 @@ With no debt whatsoever and an investment portfolio that comfortably supports my
 
 And. Yes, we live in weird times, age is not an indicator of experience, Gen Z and Millennials are more knowledgeable than ever, where just having a curious logical mindset, an internet connection, and time to invest learning. You can consume decades of research of the most valuable resources from the most brilliant people around the world in the matter of weeks and months for free. You can even backtrace their research process and almost be  present in historical moments like the 2008 financial crisis, if you read enough about it, you don't need to go into a crash to learn how to mitigate it, when you know what to expect. So powerful, right?
 
-I do fully believe that the learning curve of a kid or teenager is quite similar to the training of an LLM (Large Language Model).
-
 ### The Power of Money and the Importance of Character
 
 Money is one form of power, a tool that can effect, change, and create opportunities for yourself and others. However, with great power comes great responsibility. The information in this guide has the potential to signficantly empower individuals within a short period of time. I hope whoever is consuming this is not a horrible human being. Stay humble, thoughtful, and kind. Just because you feel free or powerful, doesn't mean you have to be an asshole to your employer or your coworkers.
