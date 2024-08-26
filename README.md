@@ -231,7 +231,7 @@ It’s crucial to note that while these strategies can offer tax savings, they a
 
 A common principle many wealthy people follow is: "Always live as if you're poor".
 
-In addition to examining how to optimize your tax setup, another key principle I advocate for is living below your means, regardless of your income. Whether you're earning $10,000, $40,000 or $200,000 annually, the concept of avoiding lifestyle inflation is crucial. It's tempting to increase your spending as your income grows, but resisting this urge can lead to greater financial freedom and security. Also, note that downgrading your lifestyle is much more difficult than upgrading it, as you're raising the bar for happiness.
+In addition to examining how to optimize your tax setup, another key principle I advocate for is living below your means, regardless of your income. Whether you're earning $10,000, $40,000 or $200,000 annually, the concept of avoiding lifestyle inflation is crucial. It's tempting to increase your spending as your income grows, but resisting this urge can lead to greater financial freedom and security. Also, note that downgrading your lifestyle is much more difficult than upgrading it, as you're raising the bar with the correlation of your happiness relative to your spending.
 
 Consider this: aim to live on a basic budget as an individual, covering essentials like a modest living space and home-cooked meals. This approach isn't just about saving money; it's about prioritizing your health and wellbeing over material possessions. Remember, buying things often provides only temporary happiness. True, lasting contentment often comes from the freedom to pursue hobbies, spend time with family, and work on passion projects.
 
