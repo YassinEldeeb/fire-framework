@@ -113,7 +113,7 @@ Powerful leaders who have my utmost respect are those who remain humble and down
 
 ## 2. The Reality of Education and the Financial System
 
-"The formal education system benefits **'the system'** more than the individual. If the economy thrives on consumers spending excessively on 'wants' then there's little incentive to educate people on managing and growing their wealth. Instead, there's a tendency to push consumerism, and leading to financial illiteracy.
+The formal education system benefits **'the system'** more than the individual. If the economy thrives on consumers spending excessively on 'wants' then there's little incentive to educate people on managing and growing their wealth. Instead, there's a tendency to push consumerism, and leading to financial illiteracy.
 
 In different regions, attitudes towards finance and investment vary significantly. For example, in Europe, there's a reliance on social security; high taxes are paid, but in return, the state handles unemployment, education, and retirement. It's a system that works for many, offering security and simplicity, but from my perspective, it lacks efficiency and personal empowerment.
 
